@@ -2,7 +2,7 @@
  
 This repository is to show my work for task 1 of the Data Science internship at Oasis Infobyte.
 
-## Task 1 - Iris Classification
+## Task 1 - Iris Flower Classification
 
 Task 1 was to develop a classification model that can classify the iris plant into its different species based on features of its sepals and petals.
 
